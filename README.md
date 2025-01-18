@@ -19,6 +19,25 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+### [💀] Threat Matrix
+```text
+[►] System Breach    [███████████████████░] 98%
+[►] Deep Infiltration[██████████████████░░] 95%
+[►] Ghost Protocol   [█████████████████░░░] 92%
+[►] Data Extraction  [████████████████░░░░] 88%
+```
+---
+
+### 🎭 [PHANTOM PROTOCOL]
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Signal_Trace-BLOCKED-FF0000?style=flat-square&color=000000" alt="Signal Trace: BLOCKED" />
+  <img src="https://img.shields.io/badge/System_Access-ROOT-FF0000?style=flat-square&color=000000" alt="System Access: ROOT" />
+  <img src="https://img.shields.io/badge/Detection-VOID-FF0000?style=flat-square&color=000000" alt="Detection: VOID" />
+</div>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithpranshu&show_icons=true&locale=en&layout=compact" alt="codewithpranshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithpranshu&show_icons=true&locale=en" alt="codewithpranshu" /></p>
