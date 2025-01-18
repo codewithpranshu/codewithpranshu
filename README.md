@@ -38,8 +38,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithpranshu&show_icons=true&locale=en&layout=compact" alt="codewithpranshu" /></p>
+### [🔪] Weapon Stack
+<div align="center">
+    
+![Binary](https://img.shields.io/badge/-System_Decimation-FF0000?style=flat-square&logo=c%2B%2B&logoColor=white&color=black)
+![Python](https://img.shields.io/badge/-Silent_Strike-FF0000?style=flat-square&logo=python&logoColor=white&color=black)
+![Shell](https://img.shields.io/badge/-Root_Access-FF0000?style=flat-square&logo=gnu-bash&logoColor=white&color=black)
+![Network](https://img.shields.io/badge/-Dark_Operations-FF0000?style=flat-square&logo=javascript&logoColor=white&color=black)
+    
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithpranshu&show_icons=true&locale=en" alt="codewithpranshu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithpranshu&" alt="codewithpranshu" /></p>
+---
