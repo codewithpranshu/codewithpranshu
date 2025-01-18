@@ -2,8 +2,17 @@
 
 <h1 align="center">☠️ Pranshu ☠️</h1>
 ---
-<h3 align="center">A passionate programmer from India</h3>
+### 🌟 [ABOUT ME] Cybersecurity Content Creator and Innovator
 
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Greetings!+I+am+Pranshu.;💻" alt="Animated Typing SVG"> 
+</div>
+
+<div align="center" style="margin: 20px;">
+    <img src="https://via.placeholder.com/800x5/00FF00/00FF00?text=+" alt="Divider Line" width="80%" />
+</div>
+
+---
 ---
 
 🛠️ **Tech Stack & Tools**  
